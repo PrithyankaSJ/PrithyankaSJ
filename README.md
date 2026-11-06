@@ -7,7 +7,7 @@
 
 ## 🙋 About Me
 
-- 🎓 B.Tech Information Technology — CGPA: 7.81
+- 🎓 B.Tech Information Technology 
 - 💼 Interned at **Blitzwork InfoTech** (Data Analytics) & **Edunet Foundation** (Data Visualization)
 - 🏆 Ranked **6th among 40+** projects at Edunet Foundation internship
 - 🤖 Built RPA pipelines with **UiPath** and AI-powered dashboards with **Python + Power BI**
